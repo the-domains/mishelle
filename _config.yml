@@ -5,7 +5,9 @@ content_rating:
 github: true
 opengraph: {}
 title: MuzeuMM and other adventures
-author: {}
+author:
+  name: mishelle moross
+  email: digiartgal@gmail.com
 color:
   lightness: 0.6774547513754701
   brandColors:
