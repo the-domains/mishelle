@@ -1,3 +1,18 @@
+layout_spectrum: 0.45717721710737685
+typography_spectrum: 0.7851051372948038
+color:
+  lightness: 0.3826507919128652
+  brandColors:
+    - '#004358'
+    - '#1F8A70'
+    - '#BEDB39'
+    - '#FFE11A'
+    - '#FD7400'
+  saturation: 1
+  brandStrength: 0.6508584304625114
+  rhythmicContrast: 0.1096475255150016
+coverPrefs:
+  filter: false
 name: mishelle
 analytics: {}
 content_rating:
@@ -8,14 +23,4 @@ title: MuzeuMM and other adventures
 author:
   name: mishelle moross
   email: digiartgal@gmail.com
-color:
-  lightness: 0.6774547513754701
-  brandColors:
-    - '#004358'
-    - '#1F8A70'
-    - '#BEDB39'
-    - '#FFE11A'
-    - '#FD7400'
-  saturation: 0.2981399389212346
-  brandStrength: 0.05304030539771549
-  rhythmicContrast: 0.7372011748927648
+content: []
